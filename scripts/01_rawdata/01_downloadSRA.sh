@@ -43,3 +43,7 @@ export TMPDIR=/scratch/rnguyen/tmp
 cat $ACCLIST | parallel --tmpdir ${OUTDIR} --compress -j 2 "fasterq-dump --split-files -t ${OUTDIR}  -O ${OUTDIR} {} && gzip ${OUTDIR}/*fastq"
 
 date
+
+
+
+#change added for github upload test
