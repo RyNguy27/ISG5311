@@ -1,0 +1,61 @@
+xanadu-67
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775846_1.fastq.gz ../../data/fastq//SRR21775846_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775847_1.fastq.gz ../../data/fastq//SRR21775847_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775848_1.fastq.gz ../../data/fastq//SRR21775848_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775849_1.fastq.gz ../../data/fastq//SRR21775849_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775850_1.fastq.gz ../../data/fastq//SRR21775850_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775851_1.fastq.gz ../../data/fastq//SRR21775851_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775852_1.fastq.gz ../../data/fastq//SRR21775852_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775853_1.fastq.gz ../../data/fastq//SRR21775853_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775854_1.fastq.gz ../../data/fastq//SRR21775854_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775855_1.fastq.gz ../../data/fastq//SRR21775855_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775856_1.fastq.gz ../../data/fastq//SRR21775856_2.fastq.gz
+fastqc --outdir ../../results/02_qc/fastqc_reports ../../data/fastq//SRR21775857_1.fastq.gz ../../data/fastq//SRR21775857_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775848_1.fastq.gz
+Analysis complete for SRR21775848_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775851_1.fastq.gz
+Analysis complete for SRR21775851_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775854_1.fastq.gz
+Analysis complete for SRR21775854_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775846_1.fastq.gz
+Analysis complete for SRR21775846_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775847_1.fastq.gz
+Analysis complete for SRR21775847_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775849_1.fastq.gz
+Analysis complete for SRR21775849_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775853_1.fastq.gz
+Analysis complete for SRR21775853_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775850_1.fastq.gz
+Analysis complete for SRR21775850_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775852_1.fastq.gz
+Analysis complete for SRR21775852_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775855_1.fastq.gz
+Analysis complete for SRR21775855_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775857_1.fastq.gz
+Analysis complete for SRR21775857_2.fastq.gz
+application/gzip
+application/gzip
+Analysis complete for SRR21775856_1.fastq.gz
+Analysis complete for SRR21775856_2.fastq.gz

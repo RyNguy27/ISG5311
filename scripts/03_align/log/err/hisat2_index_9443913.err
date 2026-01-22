@@ -1,0 +1,79 @@
+We recommend using the xeon partition (rather than general or himem) to run this application (hisat2)
+Settings:
+  Output files: "../../genome/hisat2_index/Fhet.*.ht2"
+  Line rate: 6 (line is 64 bytes)
+  Lines per side: 1 (side is 64 bytes)
+  Offset rate: 4 (one in 16)
+  FTable chars: 10
+  Strings: unpacked
+  Local offset rate: 3 (one in 8)
+  Local fTable chars: 6
+  Local sequence length: 57344
+  Local sequence overlap between two consecutive indexes: 1024
+  Endianness: little
+  Actual local endianness: little
+  Sanity checking: disabled
+  Assertions: disabled
+  Random seed: 0
+  Sizeofs: void*:8, int:4, long:8, size_t:8
+Input files DNA, FASTA:
+  ../../genome/Mus_musculus.GRCm39.dna_sm.toplevel.fa
+Reading reference sizes
+  Time reading reference sizes: 00:00:19
+Calculating joined length
+Writing header
+Reserving space for joined string
+Joining reference sequences
+  Time to join reference sequences: 00:00:10
+  Time to read SNPs and splice sites: 00:00:01
+Using parameters --bmax 31108849 --dcv 1024
+  Doing ahead-of-time memory usage test
+  Passed!  Constructing with these parameters: --bmax 31108849 --dcv 1024
+Constructing suffix-array element generator
+Converting suffix-array elements to index image
+Allocating ftab, absorbFtab
+Entering GFM loop
+Exited GFM loop
+fchr[A]: 0
+fchr[C]: 773810649
+fchr[G]: 1326819314
+fchr[T]: 1879875271
+fchr[$]: 2654621783
+Exiting GFM::buildToDisk()
+Returning from initFromVector
+Wrote 889076888 bytes to primary GFM file: ../../genome/hisat2_index/Fhet.1.ht2
+Wrote 663655452 bytes to secondary GFM file: ../../genome/hisat2_index/Fhet.2.ht2
+Re-opening _in1 and _in2 as input streams
+Returning from GFM constructor
+Returning from initFromVector
+Wrote 1165918763 bytes to primary GFM file: ../../genome/hisat2_index/Fhet.5.ht2
+Wrote 675811074 bytes to secondary GFM file: ../../genome/hisat2_index/Fhet.6.ht2
+Re-opening _in5 and _in5 as input streams
+Returning from HGFM constructor
+Headers:
+    len: 2654621783
+    gbwtLen: 2654621784
+    nodes: 2654621784
+    sz: 663655446
+    gbwtSz: 663655447
+    lineRate: 6
+    offRate: 4
+    offMask: 0xfffffff0
+    ftabChars: 10
+    eftabLen: 0
+    eftabSz: 0
+    ftabLen: 1048577
+    ftabSz: 4194308
+    offsLen: 165913862
+    offsSz: 663655448
+    lineSz: 64
+    sideSz: 64
+    sideGbwtSz: 48
+    sideGbwtLen: 192
+    numSides: 13826156
+    numLines: 13826156
+    gbwtTotLen: 884873984
+    gbwtTotSz: 884873984
+    reverse: 0
+    linearFM: Yes
+Total time for call to driver() for forward index: 00:16:29

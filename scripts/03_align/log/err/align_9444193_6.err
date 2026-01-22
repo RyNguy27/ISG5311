@@ -1,0 +1,24 @@
+We recommend using the xeon partition (rather than general or himem) to run this application (hisat2)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+31734173 reads; of these:
+  31734173 (100.00%) were paired; of these:
+    676138 (2.13%) aligned concordantly 0 times
+    29545199 (93.10%) aligned concordantly exactly 1 time
+    1512836 (4.77%) aligned concordantly >1 times
+    ----
+    676138 pairs aligned concordantly 0 times; of these:
+      38135 (5.64%) aligned discordantly 1 time
+    ----
+    638003 pairs aligned 0 times concordantly or discordantly; of these:
+      1276006 mates make up the pairs; of these:
+        703887 (55.16%) aligned 0 times
+        518449 (40.63%) aligned exactly 1 time
+        53670 (4.21%) aligned >1 times
+98.89% overall alignment rate
+[bam_sort_core] merging from 32 files and 1 in-memory blocks...

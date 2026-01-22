@@ -1,0 +1,578 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775848_trim_1.fastq.gz
+Approx 5% complete for SRR21775848_trim_1.fastq.gz
+Approx 10% complete for SRR21775848_trim_1.fastq.gz
+Approx 15% complete for SRR21775848_trim_1.fastq.gz
+Approx 20% complete for SRR21775848_trim_1.fastq.gz
+Approx 25% complete for SRR21775848_trim_1.fastq.gz
+Approx 30% complete for SRR21775848_trim_1.fastq.gz
+Approx 35% complete for SRR21775848_trim_1.fastq.gz
+Approx 40% complete for SRR21775848_trim_1.fastq.gz
+Approx 45% complete for SRR21775848_trim_1.fastq.gz
+Approx 50% complete for SRR21775848_trim_1.fastq.gz
+Approx 55% complete for SRR21775848_trim_1.fastq.gz
+Approx 60% complete for SRR21775848_trim_1.fastq.gz
+Approx 65% complete for SRR21775848_trim_1.fastq.gz
+Approx 70% complete for SRR21775848_trim_1.fastq.gz
+Approx 75% complete for SRR21775848_trim_1.fastq.gz
+Approx 80% complete for SRR21775848_trim_1.fastq.gz
+Approx 85% complete for SRR21775848_trim_1.fastq.gz
+Approx 90% complete for SRR21775848_trim_1.fastq.gz
+Approx 95% complete for SRR21775848_trim_1.fastq.gz
+Started analysis of SRR21775848_trim_2.fastq.gz
+Approx 5% complete for SRR21775848_trim_2.fastq.gz
+Approx 10% complete for SRR21775848_trim_2.fastq.gz
+Approx 15% complete for SRR21775848_trim_2.fastq.gz
+Approx 20% complete for SRR21775848_trim_2.fastq.gz
+Approx 25% complete for SRR21775848_trim_2.fastq.gz
+Approx 30% complete for SRR21775848_trim_2.fastq.gz
+Approx 35% complete for SRR21775848_trim_2.fastq.gz
+Approx 40% complete for SRR21775848_trim_2.fastq.gz
+Approx 45% complete for SRR21775848_trim_2.fastq.gz
+Approx 50% complete for SRR21775848_trim_2.fastq.gz
+Approx 55% complete for SRR21775848_trim_2.fastq.gz
+Approx 60% complete for SRR21775848_trim_2.fastq.gz
+Approx 65% complete for SRR21775848_trim_2.fastq.gz
+Approx 70% complete for SRR21775848_trim_2.fastq.gz
+Approx 75% complete for SRR21775848_trim_2.fastq.gz
+Approx 80% complete for SRR21775848_trim_2.fastq.gz
+Approx 85% complete for SRR21775848_trim_2.fastq.gz
+Approx 90% complete for SRR21775848_trim_2.fastq.gz
+Approx 95% complete for SRR21775848_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775851_trim_1.fastq.gz
+Approx 5% complete for SRR21775851_trim_1.fastq.gz
+Approx 10% complete for SRR21775851_trim_1.fastq.gz
+Approx 15% complete for SRR21775851_trim_1.fastq.gz
+Approx 20% complete for SRR21775851_trim_1.fastq.gz
+Approx 25% complete for SRR21775851_trim_1.fastq.gz
+Approx 30% complete for SRR21775851_trim_1.fastq.gz
+Approx 35% complete for SRR21775851_trim_1.fastq.gz
+Approx 40% complete for SRR21775851_trim_1.fastq.gz
+Approx 45% complete for SRR21775851_trim_1.fastq.gz
+Approx 50% complete for SRR21775851_trim_1.fastq.gz
+Approx 55% complete for SRR21775851_trim_1.fastq.gz
+Approx 60% complete for SRR21775851_trim_1.fastq.gz
+Approx 65% complete for SRR21775851_trim_1.fastq.gz
+Approx 70% complete for SRR21775851_trim_1.fastq.gz
+Approx 75% complete for SRR21775851_trim_1.fastq.gz
+Approx 80% complete for SRR21775851_trim_1.fastq.gz
+Approx 85% complete for SRR21775851_trim_1.fastq.gz
+Approx 90% complete for SRR21775851_trim_1.fastq.gz
+Approx 95% complete for SRR21775851_trim_1.fastq.gz
+Started analysis of SRR21775851_trim_2.fastq.gz
+Approx 5% complete for SRR21775851_trim_2.fastq.gz
+Approx 10% complete for SRR21775851_trim_2.fastq.gz
+Approx 15% complete for SRR21775851_trim_2.fastq.gz
+Approx 20% complete for SRR21775851_trim_2.fastq.gz
+Approx 25% complete for SRR21775851_trim_2.fastq.gz
+Approx 30% complete for SRR21775851_trim_2.fastq.gz
+Approx 35% complete for SRR21775851_trim_2.fastq.gz
+Approx 40% complete for SRR21775851_trim_2.fastq.gz
+Approx 45% complete for SRR21775851_trim_2.fastq.gz
+Approx 50% complete for SRR21775851_trim_2.fastq.gz
+Approx 55% complete for SRR21775851_trim_2.fastq.gz
+Approx 60% complete for SRR21775851_trim_2.fastq.gz
+Approx 65% complete for SRR21775851_trim_2.fastq.gz
+Approx 70% complete for SRR21775851_trim_2.fastq.gz
+Approx 75% complete for SRR21775851_trim_2.fastq.gz
+Approx 80% complete for SRR21775851_trim_2.fastq.gz
+Approx 85% complete for SRR21775851_trim_2.fastq.gz
+Approx 90% complete for SRR21775851_trim_2.fastq.gz
+Approx 95% complete for SRR21775851_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775854_trim_1.fastq.gz
+Approx 5% complete for SRR21775854_trim_1.fastq.gz
+Approx 10% complete for SRR21775854_trim_1.fastq.gz
+Approx 15% complete for SRR21775854_trim_1.fastq.gz
+Approx 20% complete for SRR21775854_trim_1.fastq.gz
+Approx 25% complete for SRR21775854_trim_1.fastq.gz
+Approx 30% complete for SRR21775854_trim_1.fastq.gz
+Approx 35% complete for SRR21775854_trim_1.fastq.gz
+Approx 40% complete for SRR21775854_trim_1.fastq.gz
+Approx 45% complete for SRR21775854_trim_1.fastq.gz
+Approx 50% complete for SRR21775854_trim_1.fastq.gz
+Approx 55% complete for SRR21775854_trim_1.fastq.gz
+Approx 60% complete for SRR21775854_trim_1.fastq.gz
+Approx 65% complete for SRR21775854_trim_1.fastq.gz
+Approx 70% complete for SRR21775854_trim_1.fastq.gz
+Approx 75% complete for SRR21775854_trim_1.fastq.gz
+Approx 80% complete for SRR21775854_trim_1.fastq.gz
+Approx 85% complete for SRR21775854_trim_1.fastq.gz
+Approx 90% complete for SRR21775854_trim_1.fastq.gz
+Approx 95% complete for SRR21775854_trim_1.fastq.gz
+Started analysis of SRR21775854_trim_2.fastq.gz
+Approx 5% complete for SRR21775854_trim_2.fastq.gz
+Approx 10% complete for SRR21775854_trim_2.fastq.gz
+Approx 15% complete for SRR21775854_trim_2.fastq.gz
+Approx 20% complete for SRR21775854_trim_2.fastq.gz
+Approx 25% complete for SRR21775854_trim_2.fastq.gz
+Approx 30% complete for SRR21775854_trim_2.fastq.gz
+Approx 35% complete for SRR21775854_trim_2.fastq.gz
+Approx 40% complete for SRR21775854_trim_2.fastq.gz
+Approx 45% complete for SRR21775854_trim_2.fastq.gz
+Approx 50% complete for SRR21775854_trim_2.fastq.gz
+Approx 55% complete for SRR21775854_trim_2.fastq.gz
+Approx 60% complete for SRR21775854_trim_2.fastq.gz
+Approx 65% complete for SRR21775854_trim_2.fastq.gz
+Approx 70% complete for SRR21775854_trim_2.fastq.gz
+Approx 75% complete for SRR21775854_trim_2.fastq.gz
+Approx 80% complete for SRR21775854_trim_2.fastq.gz
+Approx 85% complete for SRR21775854_trim_2.fastq.gz
+Approx 90% complete for SRR21775854_trim_2.fastq.gz
+Approx 95% complete for SRR21775854_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775846_trim_1.fastq.gz
+Approx 5% complete for SRR21775846_trim_1.fastq.gz
+Approx 10% complete for SRR21775846_trim_1.fastq.gz
+Approx 15% complete for SRR21775846_trim_1.fastq.gz
+Approx 20% complete for SRR21775846_trim_1.fastq.gz
+Approx 25% complete for SRR21775846_trim_1.fastq.gz
+Approx 30% complete for SRR21775846_trim_1.fastq.gz
+Approx 35% complete for SRR21775846_trim_1.fastq.gz
+Approx 40% complete for SRR21775846_trim_1.fastq.gz
+Approx 45% complete for SRR21775846_trim_1.fastq.gz
+Approx 50% complete for SRR21775846_trim_1.fastq.gz
+Approx 55% complete for SRR21775846_trim_1.fastq.gz
+Approx 60% complete for SRR21775846_trim_1.fastq.gz
+Approx 65% complete for SRR21775846_trim_1.fastq.gz
+Approx 70% complete for SRR21775846_trim_1.fastq.gz
+Approx 75% complete for SRR21775846_trim_1.fastq.gz
+Approx 80% complete for SRR21775846_trim_1.fastq.gz
+Approx 85% complete for SRR21775846_trim_1.fastq.gz
+Approx 90% complete for SRR21775846_trim_1.fastq.gz
+Approx 95% complete for SRR21775846_trim_1.fastq.gz
+Started analysis of SRR21775846_trim_2.fastq.gz
+Approx 5% complete for SRR21775846_trim_2.fastq.gz
+Approx 10% complete for SRR21775846_trim_2.fastq.gz
+Approx 15% complete for SRR21775846_trim_2.fastq.gz
+Approx 20% complete for SRR21775846_trim_2.fastq.gz
+Approx 25% complete for SRR21775846_trim_2.fastq.gz
+Approx 30% complete for SRR21775846_trim_2.fastq.gz
+Approx 35% complete for SRR21775846_trim_2.fastq.gz
+Approx 40% complete for SRR21775846_trim_2.fastq.gz
+Approx 45% complete for SRR21775846_trim_2.fastq.gz
+Approx 50% complete for SRR21775846_trim_2.fastq.gz
+Approx 55% complete for SRR21775846_trim_2.fastq.gz
+Approx 60% complete for SRR21775846_trim_2.fastq.gz
+Approx 65% complete for SRR21775846_trim_2.fastq.gz
+Approx 70% complete for SRR21775846_trim_2.fastq.gz
+Approx 75% complete for SRR21775846_trim_2.fastq.gz
+Approx 80% complete for SRR21775846_trim_2.fastq.gz
+Approx 85% complete for SRR21775846_trim_2.fastq.gz
+Approx 90% complete for SRR21775846_trim_2.fastq.gz
+Approx 95% complete for SRR21775846_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775847_trim_1.fastq.gz
+Approx 5% complete for SRR21775847_trim_1.fastq.gz
+Approx 10% complete for SRR21775847_trim_1.fastq.gz
+Approx 15% complete for SRR21775847_trim_1.fastq.gz
+Approx 20% complete for SRR21775847_trim_1.fastq.gz
+Approx 25% complete for SRR21775847_trim_1.fastq.gz
+Approx 30% complete for SRR21775847_trim_1.fastq.gz
+Approx 35% complete for SRR21775847_trim_1.fastq.gz
+Approx 40% complete for SRR21775847_trim_1.fastq.gz
+Approx 45% complete for SRR21775847_trim_1.fastq.gz
+Approx 50% complete for SRR21775847_trim_1.fastq.gz
+Approx 55% complete for SRR21775847_trim_1.fastq.gz
+Approx 60% complete for SRR21775847_trim_1.fastq.gz
+Approx 65% complete for SRR21775847_trim_1.fastq.gz
+Approx 70% complete for SRR21775847_trim_1.fastq.gz
+Approx 75% complete for SRR21775847_trim_1.fastq.gz
+Approx 80% complete for SRR21775847_trim_1.fastq.gz
+Approx 85% complete for SRR21775847_trim_1.fastq.gz
+Approx 90% complete for SRR21775847_trim_1.fastq.gz
+Approx 95% complete for SRR21775847_trim_1.fastq.gz
+Started analysis of SRR21775847_trim_2.fastq.gz
+Approx 5% complete for SRR21775847_trim_2.fastq.gz
+Approx 10% complete for SRR21775847_trim_2.fastq.gz
+Approx 15% complete for SRR21775847_trim_2.fastq.gz
+Approx 20% complete for SRR21775847_trim_2.fastq.gz
+Approx 25% complete for SRR21775847_trim_2.fastq.gz
+Approx 30% complete for SRR21775847_trim_2.fastq.gz
+Approx 35% complete for SRR21775847_trim_2.fastq.gz
+Approx 40% complete for SRR21775847_trim_2.fastq.gz
+Approx 45% complete for SRR21775847_trim_2.fastq.gz
+Approx 50% complete for SRR21775847_trim_2.fastq.gz
+Approx 55% complete for SRR21775847_trim_2.fastq.gz
+Approx 60% complete for SRR21775847_trim_2.fastq.gz
+Approx 65% complete for SRR21775847_trim_2.fastq.gz
+Approx 70% complete for SRR21775847_trim_2.fastq.gz
+Approx 75% complete for SRR21775847_trim_2.fastq.gz
+Approx 80% complete for SRR21775847_trim_2.fastq.gz
+Approx 85% complete for SRR21775847_trim_2.fastq.gz
+Approx 90% complete for SRR21775847_trim_2.fastq.gz
+Approx 95% complete for SRR21775847_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775849_trim_1.fastq.gz
+Approx 5% complete for SRR21775849_trim_1.fastq.gz
+Approx 10% complete for SRR21775849_trim_1.fastq.gz
+Approx 15% complete for SRR21775849_trim_1.fastq.gz
+Approx 20% complete for SRR21775849_trim_1.fastq.gz
+Approx 25% complete for SRR21775849_trim_1.fastq.gz
+Approx 30% complete for SRR21775849_trim_1.fastq.gz
+Approx 35% complete for SRR21775849_trim_1.fastq.gz
+Approx 40% complete for SRR21775849_trim_1.fastq.gz
+Approx 45% complete for SRR21775849_trim_1.fastq.gz
+Approx 50% complete for SRR21775849_trim_1.fastq.gz
+Approx 55% complete for SRR21775849_trim_1.fastq.gz
+Approx 60% complete for SRR21775849_trim_1.fastq.gz
+Approx 65% complete for SRR21775849_trim_1.fastq.gz
+Approx 70% complete for SRR21775849_trim_1.fastq.gz
+Approx 75% complete for SRR21775849_trim_1.fastq.gz
+Approx 80% complete for SRR21775849_trim_1.fastq.gz
+Approx 85% complete for SRR21775849_trim_1.fastq.gz
+Approx 90% complete for SRR21775849_trim_1.fastq.gz
+Approx 95% complete for SRR21775849_trim_1.fastq.gz
+Started analysis of SRR21775849_trim_2.fastq.gz
+Approx 5% complete for SRR21775849_trim_2.fastq.gz
+Approx 10% complete for SRR21775849_trim_2.fastq.gz
+Approx 15% complete for SRR21775849_trim_2.fastq.gz
+Approx 20% complete for SRR21775849_trim_2.fastq.gz
+Approx 25% complete for SRR21775849_trim_2.fastq.gz
+Approx 30% complete for SRR21775849_trim_2.fastq.gz
+Approx 35% complete for SRR21775849_trim_2.fastq.gz
+Approx 40% complete for SRR21775849_trim_2.fastq.gz
+Approx 45% complete for SRR21775849_trim_2.fastq.gz
+Approx 50% complete for SRR21775849_trim_2.fastq.gz
+Approx 55% complete for SRR21775849_trim_2.fastq.gz
+Approx 60% complete for SRR21775849_trim_2.fastq.gz
+Approx 65% complete for SRR21775849_trim_2.fastq.gz
+Approx 70% complete for SRR21775849_trim_2.fastq.gz
+Approx 75% complete for SRR21775849_trim_2.fastq.gz
+Approx 80% complete for SRR21775849_trim_2.fastq.gz
+Approx 85% complete for SRR21775849_trim_2.fastq.gz
+Approx 90% complete for SRR21775849_trim_2.fastq.gz
+Approx 95% complete for SRR21775849_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775853_trim_1.fastq.gz
+Approx 5% complete for SRR21775853_trim_1.fastq.gz
+Approx 10% complete for SRR21775853_trim_1.fastq.gz
+Approx 15% complete for SRR21775853_trim_1.fastq.gz
+Approx 20% complete for SRR21775853_trim_1.fastq.gz
+Approx 25% complete for SRR21775853_trim_1.fastq.gz
+Approx 30% complete for SRR21775853_trim_1.fastq.gz
+Approx 35% complete for SRR21775853_trim_1.fastq.gz
+Approx 40% complete for SRR21775853_trim_1.fastq.gz
+Approx 45% complete for SRR21775853_trim_1.fastq.gz
+Approx 50% complete for SRR21775853_trim_1.fastq.gz
+Approx 55% complete for SRR21775853_trim_1.fastq.gz
+Approx 60% complete for SRR21775853_trim_1.fastq.gz
+Approx 65% complete for SRR21775853_trim_1.fastq.gz
+Approx 70% complete for SRR21775853_trim_1.fastq.gz
+Approx 75% complete for SRR21775853_trim_1.fastq.gz
+Approx 80% complete for SRR21775853_trim_1.fastq.gz
+Approx 85% complete for SRR21775853_trim_1.fastq.gz
+Approx 90% complete for SRR21775853_trim_1.fastq.gz
+Approx 95% complete for SRR21775853_trim_1.fastq.gz
+Started analysis of SRR21775853_trim_2.fastq.gz
+Approx 5% complete for SRR21775853_trim_2.fastq.gz
+Approx 10% complete for SRR21775853_trim_2.fastq.gz
+Approx 15% complete for SRR21775853_trim_2.fastq.gz
+Approx 20% complete for SRR21775853_trim_2.fastq.gz
+Approx 25% complete for SRR21775853_trim_2.fastq.gz
+Approx 30% complete for SRR21775853_trim_2.fastq.gz
+Approx 35% complete for SRR21775853_trim_2.fastq.gz
+Approx 40% complete for SRR21775853_trim_2.fastq.gz
+Approx 45% complete for SRR21775853_trim_2.fastq.gz
+Approx 50% complete for SRR21775853_trim_2.fastq.gz
+Approx 55% complete for SRR21775853_trim_2.fastq.gz
+Approx 60% complete for SRR21775853_trim_2.fastq.gz
+Approx 65% complete for SRR21775853_trim_2.fastq.gz
+Approx 70% complete for SRR21775853_trim_2.fastq.gz
+Approx 75% complete for SRR21775853_trim_2.fastq.gz
+Approx 80% complete for SRR21775853_trim_2.fastq.gz
+Approx 85% complete for SRR21775853_trim_2.fastq.gz
+Approx 90% complete for SRR21775853_trim_2.fastq.gz
+Approx 95% complete for SRR21775853_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775850_trim_1.fastq.gz
+Approx 5% complete for SRR21775850_trim_1.fastq.gz
+Approx 10% complete for SRR21775850_trim_1.fastq.gz
+Approx 15% complete for SRR21775850_trim_1.fastq.gz
+Approx 20% complete for SRR21775850_trim_1.fastq.gz
+Approx 25% complete for SRR21775850_trim_1.fastq.gz
+Approx 30% complete for SRR21775850_trim_1.fastq.gz
+Approx 35% complete for SRR21775850_trim_1.fastq.gz
+Approx 40% complete for SRR21775850_trim_1.fastq.gz
+Approx 45% complete for SRR21775850_trim_1.fastq.gz
+Approx 50% complete for SRR21775850_trim_1.fastq.gz
+Approx 55% complete for SRR21775850_trim_1.fastq.gz
+Approx 60% complete for SRR21775850_trim_1.fastq.gz
+Approx 65% complete for SRR21775850_trim_1.fastq.gz
+Approx 70% complete for SRR21775850_trim_1.fastq.gz
+Approx 75% complete for SRR21775850_trim_1.fastq.gz
+Approx 80% complete for SRR21775850_trim_1.fastq.gz
+Approx 85% complete for SRR21775850_trim_1.fastq.gz
+Approx 90% complete for SRR21775850_trim_1.fastq.gz
+Approx 95% complete for SRR21775850_trim_1.fastq.gz
+Started analysis of SRR21775850_trim_2.fastq.gz
+Approx 5% complete for SRR21775850_trim_2.fastq.gz
+Approx 10% complete for SRR21775850_trim_2.fastq.gz
+Approx 15% complete for SRR21775850_trim_2.fastq.gz
+Approx 20% complete for SRR21775850_trim_2.fastq.gz
+Approx 25% complete for SRR21775850_trim_2.fastq.gz
+Approx 30% complete for SRR21775850_trim_2.fastq.gz
+Approx 35% complete for SRR21775850_trim_2.fastq.gz
+Approx 40% complete for SRR21775850_trim_2.fastq.gz
+Approx 45% complete for SRR21775850_trim_2.fastq.gz
+Approx 50% complete for SRR21775850_trim_2.fastq.gz
+Approx 55% complete for SRR21775850_trim_2.fastq.gz
+Approx 60% complete for SRR21775850_trim_2.fastq.gz
+Approx 65% complete for SRR21775850_trim_2.fastq.gz
+Approx 70% complete for SRR21775850_trim_2.fastq.gz
+Approx 75% complete for SRR21775850_trim_2.fastq.gz
+Approx 80% complete for SRR21775850_trim_2.fastq.gz
+Approx 85% complete for SRR21775850_trim_2.fastq.gz
+Approx 90% complete for SRR21775850_trim_2.fastq.gz
+Approx 95% complete for SRR21775850_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775852_trim_1.fastq.gz
+Approx 5% complete for SRR21775852_trim_1.fastq.gz
+Approx 10% complete for SRR21775852_trim_1.fastq.gz
+Approx 15% complete for SRR21775852_trim_1.fastq.gz
+Approx 20% complete for SRR21775852_trim_1.fastq.gz
+Approx 25% complete for SRR21775852_trim_1.fastq.gz
+Approx 30% complete for SRR21775852_trim_1.fastq.gz
+Approx 35% complete for SRR21775852_trim_1.fastq.gz
+Approx 40% complete for SRR21775852_trim_1.fastq.gz
+Approx 45% complete for SRR21775852_trim_1.fastq.gz
+Approx 50% complete for SRR21775852_trim_1.fastq.gz
+Approx 55% complete for SRR21775852_trim_1.fastq.gz
+Approx 60% complete for SRR21775852_trim_1.fastq.gz
+Approx 65% complete for SRR21775852_trim_1.fastq.gz
+Approx 70% complete for SRR21775852_trim_1.fastq.gz
+Approx 75% complete for SRR21775852_trim_1.fastq.gz
+Approx 80% complete for SRR21775852_trim_1.fastq.gz
+Approx 85% complete for SRR21775852_trim_1.fastq.gz
+Approx 90% complete for SRR21775852_trim_1.fastq.gz
+Approx 95% complete for SRR21775852_trim_1.fastq.gz
+Started analysis of SRR21775852_trim_2.fastq.gz
+Approx 5% complete for SRR21775852_trim_2.fastq.gz
+Approx 10% complete for SRR21775852_trim_2.fastq.gz
+Approx 15% complete for SRR21775852_trim_2.fastq.gz
+Approx 20% complete for SRR21775852_trim_2.fastq.gz
+Approx 25% complete for SRR21775852_trim_2.fastq.gz
+Approx 30% complete for SRR21775852_trim_2.fastq.gz
+Approx 35% complete for SRR21775852_trim_2.fastq.gz
+Approx 40% complete for SRR21775852_trim_2.fastq.gz
+Approx 45% complete for SRR21775852_trim_2.fastq.gz
+Approx 50% complete for SRR21775852_trim_2.fastq.gz
+Approx 55% complete for SRR21775852_trim_2.fastq.gz
+Approx 60% complete for SRR21775852_trim_2.fastq.gz
+Approx 65% complete for SRR21775852_trim_2.fastq.gz
+Approx 70% complete for SRR21775852_trim_2.fastq.gz
+Approx 75% complete for SRR21775852_trim_2.fastq.gz
+Approx 80% complete for SRR21775852_trim_2.fastq.gz
+Approx 85% complete for SRR21775852_trim_2.fastq.gz
+Approx 90% complete for SRR21775852_trim_2.fastq.gz
+Approx 95% complete for SRR21775852_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775855_trim_1.fastq.gz
+Approx 5% complete for SRR21775855_trim_1.fastq.gz
+Approx 10% complete for SRR21775855_trim_1.fastq.gz
+Approx 15% complete for SRR21775855_trim_1.fastq.gz
+Approx 20% complete for SRR21775855_trim_1.fastq.gz
+Approx 25% complete for SRR21775855_trim_1.fastq.gz
+Approx 30% complete for SRR21775855_trim_1.fastq.gz
+Approx 35% complete for SRR21775855_trim_1.fastq.gz
+Approx 40% complete for SRR21775855_trim_1.fastq.gz
+Approx 45% complete for SRR21775855_trim_1.fastq.gz
+Approx 50% complete for SRR21775855_trim_1.fastq.gz
+Approx 55% complete for SRR21775855_trim_1.fastq.gz
+Approx 60% complete for SRR21775855_trim_1.fastq.gz
+Approx 65% complete for SRR21775855_trim_1.fastq.gz
+Approx 70% complete for SRR21775855_trim_1.fastq.gz
+Approx 75% complete for SRR21775855_trim_1.fastq.gz
+Approx 80% complete for SRR21775855_trim_1.fastq.gz
+Approx 85% complete for SRR21775855_trim_1.fastq.gz
+Approx 90% complete for SRR21775855_trim_1.fastq.gz
+Approx 95% complete for SRR21775855_trim_1.fastq.gz
+Started analysis of SRR21775855_trim_2.fastq.gz
+Approx 5% complete for SRR21775855_trim_2.fastq.gz
+Approx 10% complete for SRR21775855_trim_2.fastq.gz
+Approx 15% complete for SRR21775855_trim_2.fastq.gz
+Approx 20% complete for SRR21775855_trim_2.fastq.gz
+Approx 25% complete for SRR21775855_trim_2.fastq.gz
+Approx 30% complete for SRR21775855_trim_2.fastq.gz
+Approx 35% complete for SRR21775855_trim_2.fastq.gz
+Approx 40% complete for SRR21775855_trim_2.fastq.gz
+Approx 45% complete for SRR21775855_trim_2.fastq.gz
+Approx 50% complete for SRR21775855_trim_2.fastq.gz
+Approx 55% complete for SRR21775855_trim_2.fastq.gz
+Approx 60% complete for SRR21775855_trim_2.fastq.gz
+Approx 65% complete for SRR21775855_trim_2.fastq.gz
+Approx 70% complete for SRR21775855_trim_2.fastq.gz
+Approx 75% complete for SRR21775855_trim_2.fastq.gz
+Approx 80% complete for SRR21775855_trim_2.fastq.gz
+Approx 85% complete for SRR21775855_trim_2.fastq.gz
+Approx 90% complete for SRR21775855_trim_2.fastq.gz
+Approx 95% complete for SRR21775855_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775857_trim_1.fastq.gz
+Approx 5% complete for SRR21775857_trim_1.fastq.gz
+Approx 10% complete for SRR21775857_trim_1.fastq.gz
+Approx 15% complete for SRR21775857_trim_1.fastq.gz
+Approx 20% complete for SRR21775857_trim_1.fastq.gz
+Approx 25% complete for SRR21775857_trim_1.fastq.gz
+Approx 30% complete for SRR21775857_trim_1.fastq.gz
+Approx 35% complete for SRR21775857_trim_1.fastq.gz
+Approx 40% complete for SRR21775857_trim_1.fastq.gz
+Approx 45% complete for SRR21775857_trim_1.fastq.gz
+Approx 50% complete for SRR21775857_trim_1.fastq.gz
+Approx 55% complete for SRR21775857_trim_1.fastq.gz
+Approx 60% complete for SRR21775857_trim_1.fastq.gz
+Approx 65% complete for SRR21775857_trim_1.fastq.gz
+Approx 70% complete for SRR21775857_trim_1.fastq.gz
+Approx 75% complete for SRR21775857_trim_1.fastq.gz
+Approx 80% complete for SRR21775857_trim_1.fastq.gz
+Approx 85% complete for SRR21775857_trim_1.fastq.gz
+Approx 90% complete for SRR21775857_trim_1.fastq.gz
+Approx 95% complete for SRR21775857_trim_1.fastq.gz
+Started analysis of SRR21775857_trim_2.fastq.gz
+Approx 5% complete for SRR21775857_trim_2.fastq.gz
+Approx 10% complete for SRR21775857_trim_2.fastq.gz
+Approx 15% complete for SRR21775857_trim_2.fastq.gz
+Approx 20% complete for SRR21775857_trim_2.fastq.gz
+Approx 25% complete for SRR21775857_trim_2.fastq.gz
+Approx 30% complete for SRR21775857_trim_2.fastq.gz
+Approx 35% complete for SRR21775857_trim_2.fastq.gz
+Approx 40% complete for SRR21775857_trim_2.fastq.gz
+Approx 45% complete for SRR21775857_trim_2.fastq.gz
+Approx 50% complete for SRR21775857_trim_2.fastq.gz
+Approx 55% complete for SRR21775857_trim_2.fastq.gz
+Approx 60% complete for SRR21775857_trim_2.fastq.gz
+Approx 65% complete for SRR21775857_trim_2.fastq.gz
+Approx 70% complete for SRR21775857_trim_2.fastq.gz
+Approx 75% complete for SRR21775857_trim_2.fastq.gz
+Approx 80% complete for SRR21775857_trim_2.fastq.gz
+Approx 85% complete for SRR21775857_trim_2.fastq.gz
+Approx 90% complete for SRR21775857_trim_2.fastq.gz
+Approx 95% complete for SRR21775857_trim_2.fastq.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of SRR21775856_trim_1.fastq.gz
+Approx 5% complete for SRR21775856_trim_1.fastq.gz
+Approx 10% complete for SRR21775856_trim_1.fastq.gz
+Approx 15% complete for SRR21775856_trim_1.fastq.gz
+Approx 20% complete for SRR21775856_trim_1.fastq.gz
+Approx 25% complete for SRR21775856_trim_1.fastq.gz
+Approx 30% complete for SRR21775856_trim_1.fastq.gz
+Approx 35% complete for SRR21775856_trim_1.fastq.gz
+Approx 40% complete for SRR21775856_trim_1.fastq.gz
+Approx 45% complete for SRR21775856_trim_1.fastq.gz
+Approx 50% complete for SRR21775856_trim_1.fastq.gz
+Approx 55% complete for SRR21775856_trim_1.fastq.gz
+Approx 60% complete for SRR21775856_trim_1.fastq.gz
+Approx 65% complete for SRR21775856_trim_1.fastq.gz
+Approx 70% complete for SRR21775856_trim_1.fastq.gz
+Approx 75% complete for SRR21775856_trim_1.fastq.gz
+Approx 80% complete for SRR21775856_trim_1.fastq.gz
+Approx 85% complete for SRR21775856_trim_1.fastq.gz
+Approx 90% complete for SRR21775856_trim_1.fastq.gz
+Approx 95% complete for SRR21775856_trim_1.fastq.gz
+Started analysis of SRR21775856_trim_2.fastq.gz
+Approx 5% complete for SRR21775856_trim_2.fastq.gz
+Approx 10% complete for SRR21775856_trim_2.fastq.gz
+Approx 15% complete for SRR21775856_trim_2.fastq.gz
+Approx 20% complete for SRR21775856_trim_2.fastq.gz
+Approx 25% complete for SRR21775856_trim_2.fastq.gz
+Approx 30% complete for SRR21775856_trim_2.fastq.gz
+Approx 35% complete for SRR21775856_trim_2.fastq.gz
+Approx 40% complete for SRR21775856_trim_2.fastq.gz
+Approx 45% complete for SRR21775856_trim_2.fastq.gz
+Approx 50% complete for SRR21775856_trim_2.fastq.gz
+Approx 55% complete for SRR21775856_trim_2.fastq.gz
+Approx 60% complete for SRR21775856_trim_2.fastq.gz
+Approx 65% complete for SRR21775856_trim_2.fastq.gz
+Approx 70% complete for SRR21775856_trim_2.fastq.gz
+Approx 75% complete for SRR21775856_trim_2.fastq.gz
+Approx 80% complete for SRR21775856_trim_2.fastq.gz
+Approx 85% complete for SRR21775856_trim_2.fastq.gz
+Approx 90% complete for SRR21775856_trim_2.fastq.gz
+Approx 95% complete for SRR21775856_trim_2.fastq.gz

@@ -1,0 +1,9 @@
+[WARNING]         multiqc : MultiQC Version v1.32 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/FCAM/rnguyen/myProject/results/04_counts/counts
+[INFO   ]  feature_counts : Found 12 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../results/04_counts/multiqc/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../results/04_counts/multiqc/multiqc_data
+[INFO   ]         multiqc : MultiQC complete

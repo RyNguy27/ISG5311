@@ -1,0 +1,52 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.3
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                                                                            ||
+||                           SRR21775849.bam                                  ||
+||                                                                            ||
+||             Output file : SRR21775849_tmp.counts                           ||
+||                 Summary : SRR21775849_tmp.counts.summary                   ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : no                                               ||
+||              Annotation : Mus_musculus.GRCm39.115.gtf (GTF)                ||
+||      Dir for temp files : /home/FCAM/rnguyen/myProject/results/04_coun ... ||
+||                                                                            ||
+||                 Threads : 5                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Mus_musculus.GRCm39.115.gtf ...                       ||
+||    Features : 1299184                                                      ||
+||    Meta-features : 78334                                                   ||
+||    Chromosomes/contigs : 38                                                ||
+||                                                                            ||
+|| Process BAM file SRR21775849.bam...                                        ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 76590467                                             ||
+||    Successfully assigned alignments : 54453418 (71.1%)                     ||
+||    Running time : 0.42 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/home/FCAM/rnguyen/myPr  ||
+|| oject/results/04_counts/counts/SRR21775849_tmp.counts.summary"             ||
+||                                                                            ||
+\\============================================================================//
+

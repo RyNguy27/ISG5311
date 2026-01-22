@@ -1,0 +1,43 @@
+Read1 before filtering:
+total reads: 33373835
+total bases: 4990186979
+Q20 bases: 4914530705(98.4839%)
+Q30 bases: 4768983538(95.5672%)
+
+Read2 before filtering:
+total reads: 33373835
+total bases: 4990342331
+Q20 bases: 4906394050(98.3178%)
+Q30 bases: 4729062369(94.7643%)
+
+Read1 after filtering:
+total reads: 33372151
+total bases: 4988892638
+Q20 bases: 4913490333(98.4886%)
+Q30 bases: 4768086528(95.574%)
+
+Read2 after filtering:
+total reads: 33372151
+total bases: 4989048027
+Q20 bases: 4905434351(98.3241%)
+Q30 bases: 4728276072(94.7731%)
+
+Filtering result:
+reads passed filter: 66744302
+reads failed due to low quality: 120
+reads failed due to too many N: 0
+reads failed due to too short: 3248
+reads with adapter trimmed: 53560
+bases trimmed due to adapters: 2422996
+
+Duplication rate: 25.7761%
+
+Insert size peak (evaluated by paired-end reads): 254
+
+JSON report: /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_fastp.json
+HTML report: /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_fastp.html
+
+fastp -i /home/FCAM/rnguyen/myProject/data/fastq/SRR21775846_1.fastq.gz -I /home/FCAM/rnguyen/myProject/data/fastq/SRR21775846_2.fastq.gz -o /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_1.clean.fastq.gz -O /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_2.clean.fastq.gz -q 20 -l 36 -w 8 -h /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_fastp.html -j /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775846_fastp.json 
+fastp v0.23.2, time used: 218 seconds
+/var/spool/slurm/slurmd/job9505642/slurm_script: line 37: syntax error near unexpected token `done'
+/var/spool/slurm/slurmd/job9505642/slurm_script: line 37: `done'

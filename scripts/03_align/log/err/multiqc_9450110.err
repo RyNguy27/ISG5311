@@ -1,0 +1,18 @@
+[WARNING]         multiqc : MultiQC Version v1.32 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/FCAM/rnguyen/myProject/results/03_align/samtools_stats
+[INFO   ]        samtools : Found 12 stats reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../results/03_align/multiqc/samtools_stats/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../results/03_align/multiqc/samtools_stats/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+[WARNING]         multiqc : MultiQC Version v1.32 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/FCAM/rnguyen/myProject/results/03_align/qualimap_reports
+[INFO   ]        qualimap : Found 12 RNASeq reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../results/03_align/multiqc/qualimap/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../results/03_align/multiqc/qualimap/multiqc_data
+[INFO   ]         multiqc : MultiQC complete

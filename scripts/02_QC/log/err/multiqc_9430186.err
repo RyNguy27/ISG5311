@@ -1,0 +1,9 @@
+
+  /// MultiQC 🔍 | v1.15
+
+|           multiqc | Search path : /home/FCAM/rnguyen/myProject/results/02_qc/fastqc_reports
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 48/48  
+|            fastqc | Found 24 reports
+|           multiqc | Report      : ../../results/02_qc/multiqc/multiqc_report.html
+|           multiqc | Data        : ../../results/02_qc/multiqc/multiqc_data
+|           multiqc | MultiQC complete

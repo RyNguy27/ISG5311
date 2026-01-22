@@ -1,0 +1,17 @@
+We recommend using the xeon partition (rather than general or himem) to run this application (hisat2)
+33099040 reads; of these:
+  33099040 (100.00%) were paired; of these:
+    642401 (1.94%) aligned concordantly 0 times
+    30654164 (92.61%) aligned concordantly exactly 1 time
+    1802475 (5.45%) aligned concordantly >1 times
+    ----
+    642401 pairs aligned concordantly 0 times; of these:
+      38506 (5.99%) aligned discordantly 1 time
+    ----
+    603895 pairs aligned 0 times concordantly or discordantly; of these:
+      1207790 mates make up the pairs; of these:
+        655312 (54.26%) aligned 0 times
+        493629 (40.87%) aligned exactly 1 time
+        58849 (4.87%) aligned >1 times
+99.01% overall alignment rate
+[bam_sort_core] merging from 33 files and 1 in-memory blocks...

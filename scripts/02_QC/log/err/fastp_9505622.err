@@ -1,0 +1,41 @@
+Read1 before filtering:
+total reads: 40452055
+total bases: 6043852743
+Q20 bases: 5945008051(98.3645%)
+Q30 bases: 5765545825(95.3952%)
+
+Read2 before filtering:
+total reads: 40452055
+total bases: 6044097069
+Q20 bases: 5936667171(98.2226%)
+Q30 bases: 5722385017(94.6773%)
+
+Read1 after filtering:
+total reads: 40449482
+total bases: 6041940080
+Q20 bases: 5943457432(98.37%)
+Q30 bases: 5764198520(95.4031%)
+
+Read2 after filtering:
+total reads: 40449482
+total bases: 6042194425
+Q20 bases: 5935217223(98.2295%)
+Q30 bases: 5721184573(94.6872%)
+
+Filtering result:
+reads passed filter: 80898964
+reads failed due to low quality: 192
+reads failed due to too many N: 0
+reads failed due to too short: 4954
+reads with adapter trimmed: 82272
+bases trimmed due to adapters: 3580116
+
+Duplication rate: 29.2674%
+
+Insert size peak (evaluated by paired-end reads): 241
+
+JSON report: /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_fastp.json
+HTML report: /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_fastp.html
+
+fastp -i /home/FCAM/rnguyen/myProject/data/fastq/SRR21775852_1.fastq.gz -I /home/FCAM/rnguyen/myProject/data/fastq/SRR21775852_2.fastq.gz -o /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_1.clean.fastq.gz -O /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_2.clean.fastq.gz -q 20 -l 36 -w 8 -h /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_fastp.html -j /home/FCAM/rnguyen/myProject/results/02_qc/clean_fastq/SRR21775852_fastp.json 
+fastp v0.23.2, time used: 266 seconds

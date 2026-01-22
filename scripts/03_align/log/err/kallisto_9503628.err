@@ -1,0 +1,12 @@
+
+[build] loading fasta file ../../genome/Mus_musculus.GRCm39.cdna.all.fa
+[build] k-mer length: 31
+[build] warning: clipped off poly-A tail (longer than 10)
+        from 654 target sequences
+[build] warning: replaced 1 non-ACGUT characters in the input sequence
+        with pseudorandom nucleotides
+[build] counting k-mers ... done.
+[build] building target de Bruijn graph ...  done 
+[build] creating equivalence classes ...  done
+[build] target de Bruijn graph has 737888 contigs and contains 100751648 k-mers 
+
